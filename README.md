@@ -1,7 +1,8 @@
-# FaceTracker
+## FaceTracker
 
-App for face recognition using AVFoundation and Vision
-based on the tutorial of [@tombaranowicz](https://github.com/tombaranowicz) 🙌🏻
+App for face recognition using AVFoundation and Vision.
+
+Based on **[@tombaranowicz](https://github.com/tombaranowicz)** 🙌🏻  tutorial.
 
 
 
